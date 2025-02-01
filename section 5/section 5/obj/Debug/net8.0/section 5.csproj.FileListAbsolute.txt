@@ -1,0 +1,14 @@
+D:\c# training\section 5\section 5\bin\Debug\net8.0\section 5.exe
+D:\c# training\section 5\section 5\bin\Debug\net8.0\section 5.deps.json
+D:\c# training\section 5\section 5\bin\Debug\net8.0\section 5.runtimeconfig.json
+D:\c# training\section 5\section 5\bin\Debug\net8.0\section 5.dll
+D:\c# training\section 5\section 5\bin\Debug\net8.0\section 5.pdb
+D:\c# training\section 5\section 5\obj\Debug\net8.0\section 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# training\section 5\section 5\obj\Debug\net8.0\section 5.AssemblyInfoInputs.cache
+D:\c# training\section 5\section 5\obj\Debug\net8.0\section 5.AssemblyInfo.cs
+D:\c# training\section 5\section 5\obj\Debug\net8.0\section 5.csproj.CoreCompileInputs.cache
+D:\c# training\section 5\section 5\obj\Debug\net8.0\section 5.dll
+D:\c# training\section 5\section 5\obj\Debug\net8.0\refint\section 5.dll
+D:\c# training\section 5\section 5\obj\Debug\net8.0\section 5.pdb
+D:\c# training\section 5\section 5\obj\Debug\net8.0\section 5.genruntimeconfig.cache
+D:\c# training\section 5\section 5\obj\Debug\net8.0\ref\section 5.dll
